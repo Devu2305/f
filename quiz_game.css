@@ -1,0 +1,13 @@
+body { 
+	background: rgb(255, 99, 99);
+ } 
+ .login_div1 , .login_div2 { 
+	background: white; 
+	padding: 20px; 
+	float: none; 
+	border-radius: 20px; }
+#player1_name , #player2_name { 
+	display: inline-block; 
+	margin-left: 28px; }
+
+      
